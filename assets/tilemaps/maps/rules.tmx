@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="5" height="5" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tileset_8" tilewidth="16" tileheight="16">
+  <image source="../tilesets/happyland/tileset_8.png" width="256" height="96"/>
+  <terraintypes>
+   <terrain name="Grass" tile="65"/>
+   <terrain name="Water" tile="35"/>
+   <terrain name="Stone" tile="52"/>
+   <terrain name="White" tile="51"/>
+   <terrain name="Dirt" tile="36"/>
+  </terraintypes>
+ </tileset>
+ <tileset firstgid="97" name="collision" tilewidth="16" tileheight="16">
+  <image source="../../../../tilesets/tiles/collision.png" width="16" height="16"/>
+ </tileset>
+ <layer name="regions" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOxHGIkwMABzgAGA==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOGHGIkwMAALAAAg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOmHCIkwMAAPwAAw==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOmHGIkwMAAUgABA==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOWHCIkwMAAZQABQ==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOWHGIkwMAAeAABg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOeHGIkwMABEAADg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAO+HCIkwMABIwADw==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOBHGIkwMABXAAEg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOhHGIkwMABggAFA==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAORHCIkwMABlQAFQ==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAORHGIkwMABqAAFg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOZHGIkwMACQAAHg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAO5HCIkwMACUwAHw==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOFHGIkwMACjAAIg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOlHCIkwMACnwAIw==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOlHGIkwMACsgAJA==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOVHCIkwMACxQAJQ==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOtHGIkwMADSgALA==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOdHCIkwMADXQALQ==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOdHGIkwMADcAALg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAO9HCIkwMADgwALw==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAO9HGIkwMADlgAMA==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAODHCIkwMADqQAMQ==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOrHGIkwMAEegAPA==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAObHGIkwMAEoAAPg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAO7HCIkwMAEswAPw==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOHHCIkwMAE2QAQQ==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOPHGIkwMAFhAASg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOvHCIkwMAFlwASw==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOvHGIkwMAFqgATA==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOfHCIkwMAFvQATQ==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOfHGIkwMAF0AATg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAO/HCIkwMAF4wATw==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAO/HGIkwMAF9gAUA==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOAnCIkwMAGCQAUQ==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOInGIkwMAGtAAWg==
+  </data>
+ </layer>
+ <layer name="input_Background" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOonCIkwMAGxwAWw==
+  </data>
+ </layer>
+ <layer name="output_Collision" width="5" height="5">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAOEnGIkwMAHTAAYg==
+  </data>
+ </layer>
+</map>

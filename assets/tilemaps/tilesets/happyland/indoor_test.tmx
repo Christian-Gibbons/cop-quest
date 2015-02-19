@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="16" tileheight="16" nextobjectid="6">
+ <tileset firstgid="1" name="indoor RPG baseline" tilewidth="16" tileheight="16">
+  <image source="../indoor_RPG_baseline/tilesetformattedupdate1.png" width="112" height="192"/>
+ </tileset>
+ <tileset firstgid="85" source="happyland.tsx"/>
+ <tileset firstgid="181" source="../PST/PostSovietTile.tsx"/>
+ <layer name="Ground" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJzrZGBg6BzFgwYDAD4uNYU=
+  </data>
+ </layer>
+ <layer name="Stuff" width="10" height="10">
+  <data encoding="base64" compression="zlib">
+   eJyTZWBgkCOA5YFYhYEwUENTpwfE+kDsBOU74VBnCsRmBNRZIsmBsC0WdSC+OxA7ImFvHOr8gNgfCQfhUIcN4PIHLgBSpw3EOgSwLhADAHdjDK8=
+  </data>
+ </layer>
+ <objectgroup name="Objects">
+  <object id="1" type="item" gid="50" x="65.5" y="96.5">
+   <properties>
+    <property name="Sprite" value="axe"/>
+   </properties>
+  </object>
+  <object id="2" type="door" gid="194" x="80" y="161">
+   <properties>
+    <property name="Sprite" value="brickDoor"/>
+   </properties>
+  </object>
+  <object id="4" type="playerStart" gid="7" x="80.5" y="143"/>
+ </objectgroup>
+</map>

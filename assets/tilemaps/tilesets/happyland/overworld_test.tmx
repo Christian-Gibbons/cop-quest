@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="13">
+ <tileset firstgid="1" source="happyland.tsx"/>
+ <tileset firstgid="97" name="sara 16x18 source" tilewidth="16" tileheight="18">
+  <image source="../../sprites/sara/sara 16x18 source.png" width="144" height="72"/>
+ </tileset>
+ <tileset firstgid="133" name="PostSovietTile" tilewidth="16" tileheight="16">
+  <image source="../PST/PostSovietTile.png" width="96" height="96"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztmLuS00AQRWfBjqxE9roUSAl4v8SJvoyIiGiJiPhQpKo5tUfNyjYlDQEouCVbj5m53X27e+YlpfSyYcOGDRs2bPiv8DTgw1/Cx4LrPw9oBzQDrvn3YcAx/z/k6/i80u8uo8nfVPndKn9baYwq47kAn3pAn+fq8u9r/s06Oj2rwnq5Z15N/rbV+53G6vN1TT7mAZdDsKmBb45aN8/gBie48J39dtX7zytwqbUe7HbI93qBmOjEBT/YP/BqAl/47AZ8HrCX78fraSGPT3nc97CXfb8LVXqLDesIf+KPVhzxD7av0zQWl/J4JObG+X4M+Drgp2xLzB/FF17oAL/g4zZzOeubtWLrFg/W823Al3w9yM5eLzG1y74k7rhPfMZ8wTslfPKUbcY8r5nHa5pqhvVh25HDJduAZ2ig0XdwRY9VIR615u8yB8BarGP0e9H35EFyU6t7J82BrdbmgS9YA3p1zeN+XL/tgC7QT8xPdXrLAU0BHtY3Oo21+nrHhsQV+eAY/sPD9aUED/IL9iMHkaOshbkx6GEcf9ShU/q9dq3NY6wpe9ku9k7UiLl5nSPIT+QBfAMP19xSOm8E1wJrde7bqCVih3h1XKGREjzwCTasdCWu3qtd+IL1uofknv1Bbi7lD3OxH2JfTs8KiCdynHstxkAL5CtqesnehP4L3xAnxIz3Gexf6KXcO6N1eNCbkPdK6PweH9sWDRNvre65d+/D/8iX/VWpHmuOD5zwBXZ2L0JMYW/0Ql2kp3wkBy5F3LfbXuiHWu/chK7bAPdaxB35r1RskXtcz+d0TR/mvbxzHFztK+ofvNbige2xea35vL5O91h/3GtEXbiWVxo39mtLeWB71yP6LHzvs4aYo7w3N1/XubhncS1v0/Ja6D7CeZy6HHs85t+lqebNmbGsi+hHfOA9/BIetcbxvoz+h1hwfFADrBN6D9bnWsMz28Sawi5zfeejvsAu0R/oFd/HvRw1pAv+mTu3iFzR0hocWH/czxBX7kX6NK3FXvsl3T5fPadpznLdXBpP1mvUmuPtmqY1j1iP8/s8x2vFRujH/5f4wjzc93jMW2dbcz4gRsmnPiO2zdD6Gn2u+01yTaxzj4B4cX/v/a/zte/Tj6zBow9wD+SzaPRDnfO+pNE7fOecBa9O71JblsYUPFqN2WqeGOPxvNO1mDrhMx7e8/m98969/f2fgD4vnslgW9c0nwFZq85n5g7Q8Zy2lnIwl3taXoo117thw4Z/D78AkH5EzQ==
+  </data>
+ </layer>
+ <objectgroup name="Object">
+  <object id="12" type="door" gid="146" x="336" y="320" width="16" height="16"/>
+ </objectgroup>
+</map>
